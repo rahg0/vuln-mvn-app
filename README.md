@@ -37,3 +37,20 @@ $ mvn dependency:tree
 [INFO] Finished at: 2025-01-18T14:17:13Z
 [INFO] ------------------------------------------------------------------------
 ```
+
+## Clone the Repo
+
+## Compile
+```sh
+$ mvn compile
+```
+
+## Package
+```sh
+$ mvn package
+```
+
+## Install to local repo
+```sh
+$ mvn install
+```
