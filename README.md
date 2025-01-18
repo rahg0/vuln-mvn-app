@@ -1,6 +1,7 @@
 # vuln-mvn-project
 
 ## Dep list
+```sh
 $ mvn dependency:tree
 [INFO] Scanning for projects...
 [INFO]
@@ -35,3 +36,4 @@ $ mvn dependency:tree
 [INFO] Total time:  1.933 s
 [INFO] Finished at: 2025-01-18T14:17:13Z
 [INFO] ------------------------------------------------------------------------
+```
