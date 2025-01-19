@@ -38,19 +38,19 @@ $ mvn dependency:tree
 [INFO] ------------------------------------------------------------------------
 ```
 
-## Clone the Repo
+## 1. Clone the Repo
 
-## Compile
+## 2. Compile
 ```sh
 $ mvn compile
 ```
 
-## Package
+## 3. Package
 ```sh
 $ mvn package
 ```
 
-## Install to local repo
+## 4. Install to local repo
 ```sh
 $ mvn install
 ```
